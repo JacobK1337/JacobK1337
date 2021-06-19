@@ -1,4 +1,5 @@
    # **👋 Hi, I’m Jakub**
+   ![](https://komarev.com/ghpvc/?username=JacobK1337&color=blueviolet)
   - :dizzy: I'm a :one:st year computer science student,
   - :blush: I’m interested in coding, especially in backend development
   - :star2: Trying to learn new stuff everyday
