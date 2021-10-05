@@ -1,5 +1,5 @@
    # **👋 Hi, I’m Jakub**
-  - :dizzy: I'm a 2️⃣:nd year computer science student,
+  - :dizzy: I'm a 2️⃣nd year computer science student,
   - :blush: I’m interested in coding, especially in backend development
   - :star2: Trying to learn new stuff everyday
 #### 🌱 I’m currently learning and working with Java, C++ and Python
