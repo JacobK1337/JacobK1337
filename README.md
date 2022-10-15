@@ -1,6 +1,6 @@
    # **👋 Hi, I’m Jakub**
-###  :dizzy: I'm a 2️⃣nd year computer science student at Białystok University of Technology,
-###  :blush: I'm a Junior Developer at [cronn GmbH](https://github.com/cronn), 
+###  :dizzy: I'm a :three:rd year Computer Science student at Białystok University of Technology,
+###  :blush: I'm a Junior Developer at [cronn GmbH](https://github.com/cronn),
 ###  :star2: Interested in back-end development,
 ### 🌱 Currently learning and working with Java,
 ### 📫 How to reach me -> jakub.kimsza@gmail.com
